@@ -1,0 +1,24 @@
+body{
+text-align:center;   
+    margin: 0;
+padding-top: 800px;
+ background:linear-gradient(#07fe3a 0%, #fe07cb 100%);
+}
+#apps{
+    width: 500px;
+     border: solid;
+    border-color: cornflowerblue;
+  
+}
+#games{
+    width: 500px;
+     border: solid;
+    border-color: darkgoldenrod;
+   
+}
+#chatbot{
+    width: 500px;
+     border: solid;
+    border-color: chartreuse;
+   
+}
